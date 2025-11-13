@@ -12,8 +12,54 @@
 
 ---
 
-## 1. Стратегічний фундамент
+## 1.1 Стратегічний фундамент
+Офіційний короткий тагліайн: 
 
+UA: Особисто з кожним. Одночасно з усіма.
+EN: One-on-one with everyone, all at the same time.
+Довгий для головної сторінки: 
+UA: Ваш стиль. Ваша мудрість. Ваш унікальний підхід.  Тепер доступний кожному, хто вас потребує. Цілодобово. Віч-на-віч.
+EN: Your style. Your wisdom. Your exclusive approach. Now available to everyone who needs you. Around the clock. One-on-one.
+
+Топ-3 ключові features (для hero секції): Які 3 найголовніші функції продукту? Наприклад:
+1.2.1
+UA:
+"Ваш AI-близнюк, знає все, що і ви"
+Відповідає на 100+ запитів щодня. Вашим голосом. З вашою експертизою. Поки ви робите те, що любите.
+
+EN:
+"Your AI twin knows everything you know"
+Answers 100+ questions daily. In your voice. With your expertise. While you do what you love.
+
+1.2.2
+
+UA:
+"Безмежна кількість особистих розмов одночасно"
+Кожен клієнт отримує персональну увагу та індивідуальний підхід. Незалежно від того, їх 10 чи 10,000.
+
+EN:
+"Unlimited personal conversations simultaneously"
+Every client gets personal attention and an individual approach. Whether there's 10 or 10,000 of them.
+
+1.2.3
+UA:
+"Працює 24/7, поки ви живете своїм життям"
+Ваш цифровий близнюк не спить, не їсть, не бере вихідні. Він завжди на зв'язку. Ви повертаєте собі 20+ годин щотижня. Для творчості. Для сім'ї. Для себе.
+EN:
+"Works 24/7 while you live your life"
+Your digital twin doesn't sleep, eat, or take days off. Always available. You get back 20+ hours every week. For creativity. For family. For yourself.
+
+1.3 
+
+МІСІЯ
+UA:Звільнити від повторень. Масштабувати вплив. Жити життя. 
+
+EN: Free from repetition. Scale impact. Return life
+
+ВІЗІЯ
+UA:Ваш AI-близнюк працює в цифрі, а ви живете в реальності.
+
+EN:Your AI twin works in the digital world, while you live in reality.
 
 ### 1.4 Філософія бренду
 
